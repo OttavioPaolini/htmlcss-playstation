@@ -42,3 +42,11 @@ img{
 #play-plus .col-12 img{
     width: 50%;
 }
+/* PLAY-NOW */
+#play-now{
+    background-color: #161C3B;
+    color: white;
+}
+#play-now .col-12 img{
+    width: 50%;
+}
