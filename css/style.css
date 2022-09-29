@@ -24,6 +24,12 @@ img{
 }
 /* BANNER */
 
-.container-fluid{
-    background-image: url("/img/returnal-hero-banner-logo.png");
+#banner-2 .ms_banner-2-bg{
+    background-image: url("/img/it-takes-two-hero-banner-desktop.jpg");
+}
+
+/* GAME-CARD-2 */
+#game-card-2{
+    background-color: #1F1F1F;
+    color: white;
 }
