@@ -1,0 +1,29 @@
+/* COMMON */
+img{
+    width: 100%;
+}
+
+.box{
+    height: 200px;
+    background-color: aquamarine;
+    border: 1px solid black;
+}
+
+/* NAV */
+
+.nav-top{
+    background-color: black;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.nav-top img{
+    padding-right: .5rem;
+    height: 30px;
+}
+/* BANNER */
+
+.container-fluid{
+    background-image: url("/img/returnal-hero-banner-logo.png");
+}
