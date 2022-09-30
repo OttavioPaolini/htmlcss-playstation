@@ -39,23 +39,33 @@ img{
 #banner-1{
     color: white;
 }
-#banner-1 img,h1,p,a{
-    padding: 1rem 0;
-}
 #banner-1 img{
     width: 60%;
 }
 
-#banner-2 .ms_banner-2-bg{
-    background-image: url("/img/it-takes-two-hero-banner-desktop.jpg");
+/* PLAY-5-PRESENTATION */
+#ps-5 p{
+    margin: 0;
 }
-
+#ps-5 h2{
+    margin-bottom: 1rem;
+}
 /* GAME-CARD-2 */
 #game-card-2{
     background-color: #1F1F1F;
     color: white;
 }
- 
+/* BANNER-2 */
+.ms_bg-2{
+    background-image: url("../img/it-takes-two-hero-banner-desktop.jpg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+}
+#banner-2 img{
+    width: 50%;
+}
 /* PLAY-PLUS */
 #play-plus{
     background-color:#BEBCBB;
