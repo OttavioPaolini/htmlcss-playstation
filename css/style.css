@@ -2,11 +2,8 @@
 img{
     width: 100%;
 }
-
-.box{
-    height: 200px;
-    background-color: aquamarine;
-    border: 1px solid black;
+.ms_mt-6{
+    margin-top: 6rem;
 }
 .ms_p-20{
     padding-top: 20rem;
@@ -17,18 +14,29 @@ img{
 .btn-danger{
     --bs-btn-bg: #CD3D0F;
 }
+
+header{
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 99999;
+    width: 100%;
+}
 /* NAV */
 
 .nav-top{
     background-color: black;
-    height: 50px;
     display: flex;
     align-items: center;
     justify-content: flex-end;
 }
 .nav-top img{
-    padding-right: .5rem;
+    padding: .5rem;
     height: 30px;
+}
+.ms_btm{
+    margin-left: 1rem;
+    margin-right: 1rem;
 }
 /* BANNER-1 */
 .ms_bg-1{
