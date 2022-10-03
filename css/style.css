@@ -82,3 +82,24 @@ img{
 #play-now .col-12 img{
     width: 50%;
 }
+
+/* FOOTER */
+footer{
+    background-color: #00439C;
+    color: white;
+}
+.logo-ft{
+    width: 100px;
+}
+footer a{
+    text-decoration: none;
+    color: inherit;
+}
+footer ul{
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#footer-bot img{
+    width: 150px;
+}
